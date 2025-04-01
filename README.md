@@ -1,4 +1,4 @@
-#ResuWhisper
+# ResuWhisper
 # ResumeAI
 
 ## 🚀 Overview
